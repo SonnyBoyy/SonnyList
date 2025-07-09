@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+      "user": "DoktorDreistein",
+            "link": "https://www.youtube.com/watch?v=QT_fVnl1xYQ",
+            "percent": 100,
+            "hz": 75
+        }
     ]
 }

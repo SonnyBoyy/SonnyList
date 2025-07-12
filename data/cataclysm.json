@@ -1,0 +1,17 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "GGBoy",
+    "creators": [],
+    "verifier": "Riot",
+    "verification": "https://www.youtube.com/watch?v=2Q0CYSDFpKk",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [   {
+            "user": "SonnyGirlGD",
+            "link": "https://youtu.be/A-ByONios7I",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
